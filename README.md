@@ -1,6 +1,9 @@
 # workshop
+Added first version of specs
 
 # Requirements
+- [ ] Generate report using data from last year.
+- [ ] Export as CSV.
 
-1. Generate report using data from last year.
-2. Export as CSV.
+
+
